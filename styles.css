@@ -2,10 +2,12 @@ body {
     background-color: rgb(165, 252, 255);
 }
 
-.image{
+.image {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    display: block;
+    margin: 0 auto;
 }
 
 .link-button {
@@ -21,3 +23,4 @@ body {
 a:hover {
     color: purple;
 }
+
